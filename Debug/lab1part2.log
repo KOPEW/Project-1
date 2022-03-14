@@ -1,0 +1,4 @@
+﻿  lab1part2.cpp
+D:\labs\ForSell\BAP\lab1part2\lab1part2.cpp(48,15): warning C4101: k: неиспользованная локальная переменная
+D:\labs\ForSell\BAP\lab1part2\lab1part2.cpp(44): warning C4715: sumA: значение возвращается не при всех путях выполнения
+  lab1part2.vcxproj -> D:\labs\ForSell\BAP\lab1part2\Debug\lab1part2.exe
